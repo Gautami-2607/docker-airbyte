@@ -1,0 +1,5 @@
+https://docs.airbyte.com/deploying-airbyte/docker-compose
+https://www.restack.io/docs/airbyte-knowledge-airbyte-neo4j-integration#clp75a91z033rz80uhil2nkw7
+https://kjhealey.medium.com/the-open-source-data-platform-33ff5da0b2db
+https://hub.docker.com/r/airbyte/connector-builder-server/tags
+https://pypi.org/project/airbyte/
